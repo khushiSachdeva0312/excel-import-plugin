@@ -161,3 +161,7 @@
     background-color: #fff;
     border-color: #dee2e6;
 }
+
+.wpfooter{
+    display: none !important;
+}
